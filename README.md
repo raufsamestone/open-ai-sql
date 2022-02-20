@@ -1,6 +1,8 @@
+## Build Your Serverless SQL Generator App Using GPT-3 and Next.js
+
 This is Open AI SQL generator example using Nextjs.
 
-![Demo](./public/demo.png)
+![Demo](https://res.cloudinary.com/raufsamestone/image/upload/v1645376610/blog-contents/open-ai-sql/mde55vrtjxe8peqaclbf.png)
 
 ### Usage
 
